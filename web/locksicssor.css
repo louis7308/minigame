@@ -1,0 +1,25 @@
+body {
+    background-color: bisque;
+}
+
+#computer {
+    height: 250px;
+    width: 140px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#maintext { 
+    text-align: center;
+}
+
+.btn {
+   margin: auto; 
+}
+
+#rsp{
+    width: 130px;
+    margin: 0 auto;
+    
+}
